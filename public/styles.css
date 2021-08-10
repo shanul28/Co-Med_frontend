@@ -1,0 +1,13 @@
+body {
+  background-color: #f2f8fc;
+  background-image: url("https://www.transparenttextures.com/patterns/graphcoders-lil-fiber.png");
+  max-width: 100%;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}

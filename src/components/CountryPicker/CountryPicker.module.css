@@ -1,0 +1,10 @@
+.formControl {
+  width: 25%;
+  margin: 2% 45% 2% 40% !important;
+
+  text-align: center;
+}
+.icon {
+  display: inline-block;
+  margin: 0 95%;
+}
